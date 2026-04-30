@@ -76,7 +76,7 @@
 ### Option 1: Play Online 🌐
 Click the link below to play directly in your browser:
 
-> **[▶️ Play Neon Dash Now](https://sabbir2211.github.io/Neon-Desh-html5-game/neon_dash.html)**
+> **[▶️ Play Neon Dash Now]([https://sabbir2211.github.io/Neon-Desh-html5-game/])**
 
 ### Option 2: Local Setup 💻
 
